@@ -6,10 +6,15 @@ Context and date
 Description
 
 ## Implementation
-Which features you included
+Shaders background
+Music and sound effects
+Eyes
+Brick color
+Camera shake
 
 ## References
 
 ## Future Development
 
 ## Created by
+Nick Skinner
